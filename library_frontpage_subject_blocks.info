@@ -2,6 +2,7 @@ name = Library Frontpage Subject Blocks
 description = Links to resource pages by subject
 core = 7.x
 package = Features
+php = 5.2.4
 version = 7.x-1.0-beta1
 project = library_frontpage_subject_blocks
 dependencies[] = boxes

@@ -35,7 +35,7 @@ function library_frontpage_subject_blocks_default_box() {
   $box->description = 'Humanities Links';
   $box->options = array(
     'body' => array(
-      'value' => '<ul><li><a href="./resources/english">English</a></li><li><a href="./resources/film%20studies">Film Studies</a></li><li><a href="./resources/fine%20arts">Fine Arts</a></li><li><a href="./resources/history">History</a></li><li><a href="./resources/modern%20languages%20and%20literatures">Modern Languages &amp; Literatures</a></li><li><a href="./resources/music">Music</a></li><li><a href="./resources/performance%20and%20communication%20arts">Performance &amp; Communication Arts</a></li><li><a href="./resources/philosophy">Philosophy</a></li><li><a href="./resources/religious%20studies">Religious Studies</a></li></ul>',
+      'value' => '<ul><li><a href="./resources/english">English</a></li><li><a href="./resources/film-studies">Film Studies</a></li><li><a href="./resources/fine-arts">Fine Arts</a></li><li><a href="./resources/history">History</a></li><li><a href="./resources/modern-languages-and-literatures">Modern Languages &amp; Literatures</a></li><li><a href="./resources/music">Music</a></li><li><a href="./resources/performance-and-communication-arts">Performance &amp; Communication Arts</a></li><li><a href="./resources/philosophy">Philosophy</a></li><li><a href="./resources/religious-studies">Religious Studies</a></li></ul>',
       'format' => 'full_html',
     ),
     'additional_classes' => '',
