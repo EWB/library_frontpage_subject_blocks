@@ -35,7 +35,7 @@ function library_frontpage_subject_blocks_default_box() {
   $box->description = 'Humanities Links';
   $box->options = array(
     'body' => array(
-      'value' => '<ul><li><a href="./resources/english">English</a></li><li><a href="./resources/film%20studies">Film Studies</a></li><li><a href="./resources/fine%20arts">Fine Arts</a></li><li><a href="./resources/history">History</a></li><li><a href="./resources/modern%20languages%20and%20literatures">Modern Languages &amp; Literatures</a></li><li><a href="./resources/music">Music</a></li><li><a href="./resources/performance%20and%20communication%20arts">Performance &amp; Communication Arts</a></li><li><a href="./resources/philosophy">Philosophy</a></li><li><a href="./resources/religious%20studies">Religious Studies</a></li></ul>',
+      'value' => '<ul><li><a href="./resources/english">English</a></li><li><a href="./resources/film-studies">Film Studies</a></li><li><a href="./resources/fine-arts">Fine Arts</a></li><li><a href="./resources/history">History</a></li><li><a href="./resources/modern-languages-and-literatures">Modern Languages &amp; Literatures</a></li><li><a href="./resources/music">Music</a></li><li><a href="./resources/performance-and-communication-arts">Performance &amp; Communication Arts</a></li><li><a href="./resources/philosophy">Philosophy</a></li><li><a href="./resources/religious-studies">Religious Studies</a></li></ul>',
       'format' => 'full_html',
     ),
     'additional_classes' => '',
@@ -51,7 +51,7 @@ function library_frontpage_subject_blocks_default_box() {
   $box->description = 'Interdisciplinary Links';
   $box->options = array(
     'body' => array(
-      'value' => '<ul><li><a href="./resources/african%20studies">African Studies</a></li><li><a href="./resources/asian%20studies">Asian Studies</a></li><li><a href="./resources/canadian%20studies">Canadian Studies</a></li><li><a href="./resources/CLAS">CLAS</a></li><li><a href="./resources/environmental%20studies">Environmental Studies</a></li><li><a href="./resources/european%20studies">European Studies</a></li><li><a href="./resources/gender%20studies">Gender Studies</a></li><li><a href="./resources/global%20studies">Global Studies</a></li><li><a href="./resources/native%20american%20studies">Native American Studies</a></li><li><a href="./resources/outdoor%20studies">Outdoor Studies</a></li><li><a href="./resources/sports%20studies">Sports Studies</a></li><li><a href="./resources/US%20cultural%20and%20ethnic%20studies">US Cultural &amp; Ethnic Studies</a></li></ul>',
+      'value' => '<ul><li><a href="./resources/african-studies">African Studies</a></li><li><a href="./resources/asian-studies">Asian Studies</a></li><li><a href="./resources/canadian-studies">Canadian Studies</a></li><li><a href="./resources/CLAS">CLAS</a></li><li><a href="./resources/environmental-studies">Environmental Studies</a></li><li><a href="./resources/european-studies">European Studies</a></li><li><a href="./resources/gender-studies">Gender Studies</a></li><li><a href="./resources/global-studies">Global Studies</a></li><li><a href="./resources/native-american-studies">Native American Studies</a></li><li><a href="./resources/outdoor-studies">Outdoor Studies</a></li><li><a href="./resources/sports-studies">Sports Studies</a></li><li><a href="./resources/US-cultural-and-ethnic-0studies">US Cultural &amp; Ethnic Studies</a></li></ul>',
       'format' => 'full_html',
     ),
     'additional_classes' => '',
@@ -67,7 +67,7 @@ function library_frontpage_subject_blocks_default_box() {
   $box->description = 'Sciences Links';
   $box->options = array(
     'body' => array(
-      'value' => '<ul><li><a href="./resources/biology">Biology</a></li><li><a href="./resources/biochemistry">Biochemistry</a></li><li><a href="./resources/chemistry">Chemistry</a></li><li><a href="./resources/computer%20science">Computer Science</a></li><li><a href="./resources/conservation%20biology">Conservation Biology</a></li><li><a href="./resources/geology">Geology</a></li><li><a href="./resources/mathematics">Mathematics</a></li><li><a href="./resources/physics">Physics</a></li><li><a href="./resources/psychology">Psychology</a></li></ul>',
+      'value' => '<ul><li><a href="./resources/biology">Biology</a></li><li><a href="./resources/biochemistry">Biochemistry</a></li><li><a href="./resources/chemistry">Chemistry</a></li><li><a href="./resources/computer-science">Computer Science</a></li><li><a href="./resources/conservation-biology">Conservation Biology</a></li><li><a href="./resources/geology">Geology</a></li><li><a href="./resources/mathematics">Mathematics</a></li><li><a href="./resources/physics">Physics</a></li><li><a href="./resources/psychology">Psychology</a></li></ul>',
       'format' => 'full_html',
     ),
     'additional_classes' => '',
