@@ -3,14 +3,13 @@ description = Links to resource pages by subject
 core = 7.x
 package = Features
 php = 5.2.4
-<<<<<<< HEAD
-version = 7.x-1.0
-=======
 version = 7.x-1.0-beta1
->>>>>>> 7ba0f6aed8827bbf56490b251fdcb4184a499214
-project = library_frontpage_subject_blocks
 dependencies[] = boxes
 dependencies[] = ctools
+<<<<<<< HEAD
+version = 7.x-1.0
+>>>>>>> 7ba0f6aed8827bbf56490b251fdcb4184a499214
+project = library_frontpage_subject_blocks
 features[box][] = library_general_sources_links
 features[box][] = library_humanities_links
 features[box][] = library_interdisciplinary_links
