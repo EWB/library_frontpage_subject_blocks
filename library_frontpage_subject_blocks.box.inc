@@ -19,7 +19,7 @@ function library_frontpage_subject_blocks_default_box() {
   $box->description = 'General Sources Links';
   $box->options = array(
     'body' => array(
-      'value' => '<ul><li><a href="./resources/alternative-press">Alternative Press</a></li><li><a href="./resources/business-sources">Business Sources</a></li><li><a href="./resources/general-sources">General Sources</a></li><li><a href="./government-information">Government Information</a></li><li><a href="./resources/news-sources">News Sources</a></li><li><a href="./resources/statistics-data">Statistics and Data</a></li></ul>',
+      'value' => '<ul><li><a href="./databases/alternative-press">Alternative Press</a></li><li><a href="./databases/business-sources">Business Sources</a></li><li><a href="./databases/general-sources">General Sources</a></li><li><a href="./government-information">Government Information</a></li><li><a href="./databases/news-sources">News Sources</a></li><li><a href="./databases/statistics-data">Statistics and Data</a></li></ul>',
       'format' => 'filtered_html',
     ),
     'additional_classes' => '',
